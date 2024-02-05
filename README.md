@@ -16,4 +16,4 @@ To create your app stay logged into your account that has 2FA enabled. [Creating
 
 Input your email account that you used to create the app (must also be singed into your account before running program) and your app password that you generated. 
 
-![alt text](file:///C:/Users/decla/Downloads/Screenshot%202024-02-05%20160852.png)
+![](file:///C:/Users/decla/Downloads/Screenshot%202024-02-05%20160852.png)
